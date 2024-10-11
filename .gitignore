@@ -1,0 +1,31 @@
+# Java and Spring Boot related files
+/target/
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+/logs/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/target/
+/release.properties
+
+# Temporary files
+*.class
+*.tmp
+*.swp
+*.DS_Store
+
+# H2 database files
+*.h2.db
+*.mv.db
